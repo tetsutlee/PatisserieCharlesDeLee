@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/StartSE.wav</SourceFile>
+  <SourceTime>2019-11-27T11:11:52.38+09:00</SourceTime>
+  <DestFile>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/bin/Windows/Content/StartSE.xnb</DestFile>
+  <DestTime>2020-04-16T03:31:55.6143389+09:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-09T01:35:54+09:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-09T01:35:54+09:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

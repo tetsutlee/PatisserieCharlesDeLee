@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/1millionPoint.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/BackgroundCake1.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/BackgroundCake2.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/BackgroundCake3.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/BackGroundEffect.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/BackToTitle.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/BigAnpan.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/BigCoupon.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/BigCroissant.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/BigDonuts.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/BigPresentBasket.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/BigToast.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/BigWaffle.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/BlackCover.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/BrownCover.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/EffectBall.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/EndingTitle.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/flower.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/flowerTutorial.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/GetSpecialitem.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/Gorgeous.wav</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/KawaiiSE2.wav</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/KawaiiSE3.wav</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/KiraEffect1.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/KiraEffect2.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/KiraEffect3.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/LoadingCake1.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/LoadingCake2.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/LoadingCake3.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/LoadingConversation.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/LoadingNext1.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/MusicBandPassage.mp3</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/NowLoading1.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/NowLoading2.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/Number.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/PatisserieChralesDeLee.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/Press_Enter1.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/Press_Enter2.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/PuzzleStage.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/PuzzleStageComplete.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/Rank.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/raspis.mp3</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/RedBlocks.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/Sante.wav</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/ScoreTime.png</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/StartSE.wav</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/Surprise.wav</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/SystemSE.wav</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/the_opening_of_a_book.mp3</File>
+    <File>C:/Users/fumit/Desktop/Syukatsu/My Game/PatisserieCharlesDeLee/Puzzle/Puzzle/Content/wooden_beats.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
